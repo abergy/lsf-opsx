@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+
+# Python dependencies
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Build artifacts
+dist/
+build/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Images and generated files
+content/examples/e1/images.json
+*.bak
+*.orig
+
+# Ignore archives
+openspec/changes/archive/
